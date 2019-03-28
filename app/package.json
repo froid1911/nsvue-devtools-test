@@ -1,0 +1,8 @@
+{
+  "android": {
+    "v8Flags": "--expose_gc"
+  },
+  "main": "main",
+  "name": "nsvue_devtools_test",
+  "version": "1.0.0"
+}
